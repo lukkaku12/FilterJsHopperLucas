@@ -1,0 +1,96 @@
+{
+  "flight": [
+    {
+      "number": "1408",
+      "origin": "BOG",
+      "destination": "LAX",
+      "departure": "2024-03-12",
+      "arrival": "2024-04-30",
+      "capacity": "293",
+      "id": "356"
+    },
+    {
+      "id": "109",
+      "number": "1441",
+      "origin": "LAX",
+      "destination": "JFK",
+      "departure": "2024-03-02",
+      "arrival": "2024-04-08",
+      "capacity": "293"
+    },
+    {
+      "id": "684",
+      "number": "1441",
+      "origin": "LAX",
+      "destination": "JFK",
+      "departure": "2024-03-02",
+      "arrival": "2024-04-08",
+      "capacity": "293"
+    },
+    {
+      "id": "657",
+      "number": "1441",
+      "origin": "LAX",
+      "destination": "JFK",
+      "departure": "2024-03-02",
+      "arrival": "2024-04-08",
+      "capacity": "293"
+    },
+    {
+      "id": "685",
+      "number": "1441",
+      "origin": "LAX",
+      "destination": "JFK",
+      "departure": "2024-03-02",
+      "arrival": "2024-04-08",
+      "capacity": "293"
+    },
+    {
+      "id": "687",
+      "number": "1441",
+      "origin": "LAX",
+      "destination": "JFK",
+      "departure": "2024-03-02",
+      "arrival": "2024-04-08",
+      "capacity": "293"
+    }
+  ],
+  "Role": [],
+  "User": [
+    {
+      "id": "896c",
+      "name": "lucas",
+      "email": "lucasaristiz789@gmail.com",
+      "date": "2023-10-18",
+      "password": "lucas123",
+      "roleId": "Admin"
+    },
+    {
+      "id": "bee4",
+      "name": "pepito",
+      "email": "pepito123@gmail.com",
+      "date": "2004-06-16",
+      "password": "pepito123",
+      "roleId": "Admin"
+    }
+  ],
+  "Booking": [
+    {
+      "flightId": "356",
+      "userId": null,
+      "bookingDate": "2024-06-05T23:45:21.500Z"
+    },
+    {
+      "id": "6f0f",
+      "flightId": "356",
+      "userId": null,
+      "bookingDate": "2024-06-05T23:46:33.683Z"
+    },
+    {
+      "id": "b31c",
+      "flightId": "356",
+      "userId": "467",
+      "bookingDate": "2024-06-05T23:48:15.749Z"
+    }
+  ]
+}

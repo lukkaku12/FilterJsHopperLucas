@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    background-color: rgba(95, 158, 160, 0.5) ;
+    
+
+    height: 100px;
+    align-items: center;
+    
+}
+
+
+
+.ul {
+    display: flex;
+    
+}
+
+.li {
+    list-style: none;
+    color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: hover 2s;
+}
+
+.li:hover {
+    list-style: none;
+    color: rgb(48, 80, 139);  
+    font-size: larger;
+}
